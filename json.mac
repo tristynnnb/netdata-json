@@ -21,13 +21,13 @@
     %{
         A simple JSON string for testing.
     %}
-    test_json = {{"first_name":"David","last_name":"Noel"}%}
-    test_json2 = {[{"first_name":"Blake","last_name":"McArthur"},{"first_name":"David","last_name":"Noel"}]%}
+    test_json = {{"first_name":"Tristyn","last_name":"Burnett"}%}
+    test_json2 = {[{"first_name":"Tristyn_Joy","last_name":"Burnett"},{"first_name":"Tristyn_J","last_name":"Burnett"}]%}
     test_json3 = {
-        [{"first_name" : "Blake",
-          "last_name"  : "McArthur"},
-         {"first_name" : "David",
-          "last_name"  : "Noell"}
+        [{"first_name" : "Tristyn",
+          "last_name"  : "Burnett"},
+         {"first_name" : "Tristyn_Joy",
+          "last_name"  : "Burnett"}
           ]
           %}
 %}
